@@ -5,6 +5,9 @@ Changelog
 1.9 (unreleased)
 ----------------
 
+- Add portlet location on exported data
+  [mpeeters]
+
 - Make export of discussions and portlets contextual
   [mpeeters]
 
