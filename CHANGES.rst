@@ -5,7 +5,8 @@ Changelog
 1.9 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Make export of discussions and portlets contextual
+  [mpeeters]
 
 
 1.8 (2023-04-20)
